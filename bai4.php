@@ -1,8 +1,7 @@
 <?php
     class sap_xep_mang  
     {  
-        protected $_asort;  
-            
+        protected $_asort;      
         public function __construct(array $asort)  
             {  
             $this->_asort = $asort;  
