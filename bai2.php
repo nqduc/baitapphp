@@ -1,4 +1,3 @@
-
 <?php
     class user_message {
         public $message = 'Xin chào , Tôi tên là ';
